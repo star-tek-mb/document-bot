@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.4.16",
+    "memorystream": "^0.3.1",
+    "pdfkit": "^0.11.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "telegraf": "^3.38.0"
+  }
+}
